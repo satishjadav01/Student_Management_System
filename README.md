@@ -16,7 +16,7 @@ The project performs basic CRUD operations with persistent local storage.
 - JSON for data persistence
 
 ## Project Structure
-student-management-system/
+``` student-management-system/
 │
 ├── main.py
 ├── student.py
@@ -24,6 +24,7 @@ student-management-system/
 ├── utils.py
 ├── students.json
 └── README.md
+``` 
 
 ## How to Run
 ``` python main.py ```
